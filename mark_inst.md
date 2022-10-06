@@ -40,7 +40,7 @@
 
 ## Работа с таблицами
 
-## Цитаты
+## Цитаты кода
 
 ```
 <!DOCTYPE html>
@@ -50,4 +50,11 @@
 </html>
 ```
 
+## Цитата блока
+> Lorem ipsum dolor sit amet, conctetur adipiscing elit. Integer eget porta sapien, eget pellentesque sapien. Duis in aliquam elit. Mauris lacinia magna quis nibh commodo, sed elementum quam elementum.
+
+
 ## Заключение
+
+Для итогового задания сделан файл readme.md. В ветке end_prog добавлен комит.
+В файле есть текст, который соотвествует последнему лекционному уроку.
